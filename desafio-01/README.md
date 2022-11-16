@@ -41,9 +41,7 @@ Tal desafio terá duas etapas obrigatórias:
 
 Além destas, existem 2 etapas bônus, opcionais:
 
-1.  Criação de *bindings* das funções em *C++* como chamadas em *Python*
-    utilizando do módulo *ctypes*. Nesse caso, também será necessária
-    uma regra no *Makefile* para compilação da *library*.
+1.  Criação de *bindings*  das funções em C++ como chamadas em Python.
 2.  Implementação de extensões do desafio, seja em *Python* ou *C++*
     (linguagem de escolha do desenvolvedor) que inclua alguma nova
     funcionalidade relacionada ao problema que o desenvolvedor julgue
@@ -79,8 +77,7 @@ Em ordem de importância:
 ## O que será disponibilizado
 
 -   [Imagens para teste](../files/img-desafio.tar.xz);
--   Acesso *ssh* com permissão de administrador para uma máquina recém
-    formatada onde a solução deverá ser implementada e testada.
+
 
 Se for da vontade do desenvolvedor, poderão ser usadas outras imagens
 para teste, que também poderão ser disponibilizadas (a cargo do
