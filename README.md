@@ -2,7 +2,7 @@
 
 Seguem abaixo os itens do desafio para os candidatos à vaga para a equipe Analytical:
 
-1. [Desafio 01](https://github.com/mostqi/desafios-analista-documental/tree/main/desafio-01)
+1. [Desafio 01](https://github.com/mostqi/desafios-analytical/tree/main/desafio-01)
 
 ## Instruções
 
